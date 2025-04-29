@@ -1,6 +1,6 @@
-# BitSRun_BUCT - 深澜校园网自动认证工具 - 北京化工大学特供版
+# BitSRun_BUCT - 深澜校园网自动认证工具 - 北京师范大学特供版
 
-BitSRun_BUCT 是一个北京化工大学特供版的用于自动完成深澜(srun)认证系统校园网登录的Python工具，支持多种设备平台。
+BitSRun_BNU 是一个北京师范大学特供版的用于自动完成深澜(srun)认证系统校园网登录的Python工具，支持多种设备平台。
 
 ## 功能特点
 
@@ -150,4 +150,5 @@ bitsrun_buct/
 
 MIT License
 
+# BNU
 # BNU
