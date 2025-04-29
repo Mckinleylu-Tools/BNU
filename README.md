@@ -150,5 +150,3 @@ bitsrun_buct/
 
 MIT License
 
-# BNU
-# BNU
